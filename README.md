@@ -1,4 +1,5 @@
 # 🚀 MNIST MLP Classifier
+<img width="1100" height="750" alt="image" src="https://github.com/user-attachments/assets/c89d3646-a754-45a3-a452-b4f7091e75de" />
 
 A baseline handwritten digit classification project using a Multilayer Perceptron (MLP) built with TensorFlow and Keras.
 The model is trained and evaluated on the classic MNIST dataset, demonstrating the end-to-end deep learning workflow from preprocessing to evaluation.
@@ -41,6 +42,9 @@ Pixel values are normalized to the range [0, 1], and labels are one-hot encoded.
 ## 📝 Results
 - The trained model achieves ~96–97% accuracy on the MNIST test set, which is expected for a dense neural network without convolutional layers.
 - This performance validates the pipeline while leaving room for architectural improvements.
+
+<img width="1918" height="1025" alt="image" src="https://github.com/user-attachments/assets/7cc4b2e9-5b78-409f-ad11-020ced624313" />
+
 
 ## 🚀 How to Run
 
